@@ -477,6 +477,6 @@ const board_info_t g_board_info = {
     .prerun_board_config = prerun_board_config,
     .target_cfg = &target_device_nrf52833,
     .target_set_state = target_set_state_microbit,
-    .board_vendor = "CALLIOPE CC",
+    .board_vendor = "CALLIOPE",
     .board_name = "Calliope mini V3",
 };
